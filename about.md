@@ -19,4 +19,4 @@ My name is takuma goto, a software developer.
 
 [drawing-tool]: http://drawingtool.takuma510.org
 [hatena-bookmark]: http://b.hatena.ne.jp/takuma510
-[booklog]: http://booklog.jp/users/takumakun
+[booklog]: http://booklog.jp/users/takuma510
