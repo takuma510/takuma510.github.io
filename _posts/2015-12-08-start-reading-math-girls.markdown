@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "美しい数学の世界への誘い"
+title:  "美しい数学世界への誘い"
 date:   2015-12-08 20:59:37
 categories: book
 ---
