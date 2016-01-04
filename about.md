@@ -1,25 +1,27 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
 My name is takuma goto, a software developer.
 
-## Products
-
-* [Simple Timer][simple-timer]
-* [Drawing tool][drawing-tool]
-
-
 ## Accounts
 
+* [Github][github]
 * [Hatena bookmark][hatena-bookmark]
 * [Booklog][booklog]
 * [Qiita][qiita]
 
-[drawing-tool]: http://drawingtool.takuma510.org
-[simple-timer]: https://github.com/takuma510/simple-timer
+## Products
+
+* [Zengo bot][zengo_bot]
+* [Simple Timer][simple-timer]
+
+
+[github]: https://github.com/takuma510
 [hatena-bookmark]: http://b.hatena.ne.jp/takuma510
 [booklog]: http://booklog.jp/users/takuma510
 [qiita]: http://qiita.com/takuma510
+[simple-timer]: https://github.com/takuma510/simple-timer
+[zengo_bot]: https://twitter.com/bot_zengo
